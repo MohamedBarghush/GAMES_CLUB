@@ -1,4 +1,10 @@
 # GAMES_CLUB
+Download Instructions:
+-  Clone the repo, or download it.
+-  Extract the assets.zip file into the project
+-  Open the project from the ```.sln``` file in the project
+-  Enjoy!!
+
 Description:
 -> For English speaking students:
 ------------------
